@@ -1,0 +1,13 @@
+E:\EDI\22022\Examen1-2022\Examen1-SA-1-2022\Ed ex1 1 2022 Diag2 SA\wApp\bin\x64\Test\wApp.exe
+E:\EDI\22022\Examen1-2022\Examen1-SA-1-2022\Ed ex1 1 2022 Diag2 SA\wApp\bin\x64\Test\wApp.pdb
+E:\EDI\22022\Examen1-2022\Examen1-SA-1-2022\Ed ex1 1 2022 Diag2 SA\wApp\bin\x64\Test\cApp.dll
+E:\EDI\22022\Examen1-2022\Examen1-SA-1-2022\Ed ex1 1 2022 Diag2 SA\wApp\bin\x64\Test\cApp.pdb
+E:\EDI\22022\Examen1-2022\Examen1-SA-1-2022\Ed ex1 1 2022 Diag2 SA\wApp\obj\x64\Test\wApp.csprojAssemblyReference.cache
+E:\EDI\22022\Examen1-2022\Examen1-SA-1-2022\Ed ex1 1 2022 Diag2 SA\wApp\obj\x64\Test\wApp.fSpar.resources
+E:\EDI\22022\Examen1-2022\Examen1-SA-1-2022\Ed ex1 1 2022 Diag2 SA\wApp\obj\x64\Test\wApp.menu.resources
+E:\EDI\22022\Examen1-2022\Examen1-SA-1-2022\Ed ex1 1 2022 Diag2 SA\wApp\obj\x64\Test\wApp.Properties.Resources.resources
+E:\EDI\22022\Examen1-2022\Examen1-SA-1-2022\Ed ex1 1 2022 Diag2 SA\wApp\obj\x64\Test\wApp.csproj.GenerateResource.cache
+E:\EDI\22022\Examen1-2022\Examen1-SA-1-2022\Ed ex1 1 2022 Diag2 SA\wApp\obj\x64\Test\wApp.csproj.CoreCompileInputs.cache
+E:\EDI\22022\Examen1-2022\Examen1-SA-1-2022\Ed ex1 1 2022 Diag2 SA\wApp\obj\x64\Test\wApp.csproj.CopyComplete
+E:\EDI\22022\Examen1-2022\Examen1-SA-1-2022\Ed ex1 1 2022 Diag2 SA\wApp\obj\x64\Test\wApp.exe
+E:\EDI\22022\Examen1-2022\Examen1-SA-1-2022\Ed ex1 1 2022 Diag2 SA\wApp\obj\x64\Test\wApp.pdb
